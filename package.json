@@ -1,6 +1,6 @@
 {
   "name": "react-redux-meteor",
-  "version": "4.5.1",
+  "version": "4.6.0",
   "description": "React bindings for Redux + Meteor, forked from react-redux",
   "main": "./lib/index.js",
   "scripts": {
