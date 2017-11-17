@@ -1,6 +1,6 @@
 {
   "name": "react-redux-meteor-tdukart",
-  "version": "4.6.0",
+  "version": "4.6.1",
   "description": "Fork of react-redux-meteor to support newer versions of React; React bindings for Redux + Meteor, forked from react-redux",
   "main": "./lib/index.js",
   "scripts": {
