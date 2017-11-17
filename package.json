@@ -39,7 +39,7 @@
   ],
   "author": "Dan Abramov <dan.abramov@me.com> (http://github.com/gaearon)",
   "contributors": [
-      "Hanz Luo <lhz0516@hotmail.com> (http://github.com/lhz516)"
+    "Hanz Luo <lhz0516@hotmail.com> (http://github.com/lhz516)"
   ],
   "license": "MIT",
   "bugs": {
@@ -86,6 +86,7 @@
     "istanbul": "^0.3.17",
     "jsdom": "~5.4.3",
     "mocha": "^2.2.5",
+    "prop-types": "^15.6.0",
     "react": "^0.14.0",
     "react-addons-test-utils": "^0.14.0",
     "react-dom": "^0.14.0",
@@ -100,7 +101,8 @@
     "loose-envify": "^1.1.0"
   },
   "peerDependencies": {
-    "react": "^0.14.0 || ^15.0.0-0",
+    "prop-types": "^15.6.0",
+    "react": "^0.14.0 || ^15.0.0-0 || ^16.0.0",
     "redux": "^2.0.0 || ^3.0.0"
   },
   "browserify": {

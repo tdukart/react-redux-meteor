@@ -1,5 +1,6 @@
 import expect from 'expect'
-import React, { createClass, Children, PropTypes, Component } from 'react'
+import React, { createClass, Children, Component } from 'react'
+import PropTypes from 'prop-types'
 import ReactDOM from 'react-dom'
 import TestUtils from 'react-addons-test-utils'
 import { createStore } from 'redux'
